@@ -1,6 +1,6 @@
   # Hey, I'm Sukumaar 👋
 
-  Software Engineer , passionate about systems programming, distributed & parallel computing, big data, and cloud-native infrastructure. Active open source contributor.
+  Software Engineer, passionate about systems programming, distributed & parallel computing, big data, and cloud-native infrastructure. Active open source contributor.
 
   ## 🔧 Open Source Contributions
 
