@@ -2,7 +2,7 @@
 
   Software Engineer, passionate about systems programming, distributed & parallel computing, big data, and cloud-native infrastructure. Active open source contributor.
 
-  ## 🔧 Open Source Contributions
+  ## 🏆 Open Source Contributions
 
   ### HashiCorp — [terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws)
 
@@ -13,14 +13,6 @@
   | [#45571](https://github.com/hashicorp/terraform-provider-aws/pull/45571) | Fix `aws_elasticache_serverless_cache` user group removal | v6.31.0 |
   | [#45518](https://github.com/hashicorp/terraform-provider-aws/pull/45518) | Fix `aws_elasticache_replication_group` AUTH to RBAC migration | v6.31.0 |
   | [#45087](https://github.com/hashicorp/terraform-provider-aws/pull/45087) | Fix `aws_elasticache_serverless_cache` recreating on Valkey 7→8 upgrade | v6.31.0 |
-
-  ## 🏆 GitHub Achievements
-
-  - 🦈 Pull Shark x2
-  - 🧊 Arctic Code Vault Contributor
-  - 👯 Pair Extraordinaire
-  - 🤠 YOLO
-  - 🔫 Quickdraw
 
   ## 🛠️ Tech Stack
 
