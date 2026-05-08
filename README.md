@@ -40,6 +40,14 @@
   - 🌐 [sukumaar.github.io](https://sukumaar.github.io)
   - 🐙 [github.com/sukumaar](https://github.com/sukumaar)
 
----
 
 <sub>![Last Commit](https://img.shields.io/github/last-commit/sukumaar/sukumaar?label=Profile%20updated&style=flat)</sub>
+ 
+---
+  <div align="center">
+
+  **Systems · Distributed Computing · Big Data · Cloud Infrastructure**
+
+  [![GitHub](https://img.shields.io/badge/-sukumaar-181717?style=for-the-badge&logo=github)](https://github.com/sukumaar)
+  [![Blog](https://img.shields.io/badge/Blog-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://sukumaar.github.io)
+  </div>
