@@ -31,31 +31,30 @@
   ![Scala](https://img.shields.io/badge/-Scala-DC322F?logo=scala&logoColor=white&style=flat)
   ![Bun](https://img.shields.io/badge/-Bun-000000?logo=bun&logoColor=white&style=flat)
 
-  ## 📊 HashiCorp Contribution Stats
+   ## 📊 HashiCorp Contribution Stats
 
-  ```mermaid
-  %%{init: {'theme': 'base', 'themeVariables': {'git0': '#7B42BC', 'git1': '#00ADD8', 'git2': '#E25A1C', 'gitBranchLabel0': '#fff', 'gitBranchLabel1': '#fff', 'gitBranchLabel2': '#fff', 'commitLabelColor':
-  '#333', 'commitLabelBackground': '#f0f0f0'}}}%%
-  gitGraph
-      commit id: "🚀 HashiCorp OSS Journey" type: HIGHLIGHT
-      branch "elasticache/v6.31.0"
-      commit id: "#45087 Serverless: Valkey 7→8"
-      commit id: "#45518 RG: AUTH→RBAC"
-      commit id: "#45571 Serverless: UserGroup removal"
-      commit id: "#45893 RG: Node downscaling"
-      checkout main
-      merge "elasticache/v6.31.0" id: "🎉 v6.31.0" type: HIGHLIGHT
-      branch "elasticache/v6.39.0"
-      commit id: "#46134 Serverless: Cache usage"
-      checkout main
-      merge "elasticache/v6.39.0" id: "🎉 v6.39.0" type: HIGHLIGHT
-      branch "elasticache/v6.45.0"
-      commit id: "#45017 Cluster: Remove valkey engine"
-      commit id: "#46109 RG: Engine change fix"
-      checkout main
-      merge "elasticache/v6.45.0" id: "🎉 v6.45.0" type: HIGHLIGHT
-```
-
+   ```mermaid
+   %%{init: {'theme': 'base', 'themeVariables': {'git0': '#7B42BC', 'git1': '#00ADD8', 'git2': '#E25A1C', 'gitBranchLabel0': '#fff', 'gitBranchLabel1': '#fff', 'gitBranchLabel2': '#fff', 'commitLabelColor':
+   '#333', 'commitLabelBackground': '#f0f0f0'}}}%%
+   gitGraph
+   commit id: "🚀 HashiCorp OSS Journey" type: HIGHLIGHT
+   branch "elasticache/v6.31.0"
+   commit id: "#45087 Serverless: Valkey 7→8"
+   commit id: "#45518 RG: AUTH→RBAC"
+   commit id: "#45571 Serverless: UserGroup removal"
+   commit id: "#45893 RG: Node downscaling"
+   checkout main
+   merge "elasticache/v6.31.0" id: "🎉 v6.31.0" type: HIGHLIGHT
+   branch "elasticache/v6.39.0"
+   commit id: "#46134 Serverless: Cache usage"
+   checkout main
+   merge "elasticache/v6.39.0" id: "🎉 v6.39.0" type: HIGHLIGHT
+   branch "elasticache/v6.45.0"
+   commit id: "#45017 Cluster: Remove valkey engine"
+   commit id: "#46109 RG: Engine change fix"
+   checkout main
+   merge "elasticache/v6.45.0" id: "🎉 v6.45.0" type: HIGHLIGHT
+  ```
   ## 📫 Connect
 
   - 🌐 [sukumaar.github.io](https://sukumaar.github.io)
