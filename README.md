@@ -37,7 +37,7 @@
   %%{init: {'theme': 'base', 'themeVariables': {'git0': '#7B42BC', 'git1': '#00ADD8', 'git2': '#E25A1C', 'gitBranchLabel0': '#fff', 'gitBranchLabel1': '#fff', 'gitBranchLabel2': '#fff', 'commitLabelColor':
   '#333', 'commitLabelBackground': '#f0f0f0'}}}%%
   gitGraph
-      commit id: "🚀 OSS Journey" type: HIGHLIGHT
+      commit id: "🚀 HashiCorp OSS Journey" type: HIGHLIGHT
       branch "elasticache/v6.31.0"
       commit id: "#45087 Serverless: Valkey 7→8"
       commit id: "#45518 RG: AUTH→RBAC"
