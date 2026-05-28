@@ -8,6 +8,7 @@
 
   | PR | Description | Released In |
   |----|-------------|-------------|
+  | [#46326](https://github.com/hashicorp/terraform-provider-aws/pull/46326) | [bugfix] aws_elasticache_replication_group fix snapshot issue | v6.48.0 |
   | [#46109](https://github.com/hashicorp/terraform-provider-aws/pull/46109) | Fix `aws_elasticache_replication_group` engine change after disassociating | v6.45.0 |
   | [#45017](https://github.com/hashicorp/terraform-provider-aws/pull/45017) | Remove valkey engine from `aws_elasticache_cluster` to align with AWS SDK | v6.45.0 |
   | [#46134](https://github.com/hashicorp/terraform-provider-aws/pull/46134) | Fix `aws_elasticache_serverless_cache` cache usage | v6.39.0 |
