@@ -32,6 +32,7 @@
   ![Spark](https://img.shields.io/badge/-Spark-E25A1C?logo=apachespark&logoColor=white&style=flat)
   ![Scala](https://img.shields.io/badge/-Scala-DC322F?logo=scala&logoColor=white&style=flat)
   ![Bun](https://img.shields.io/badge/-Bun-000000?logo=bun&logoColor=white&style=flat)
+  ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=nodedotjs&logoColor=white&style=flat)
 
   ## 📫 Connect
 
