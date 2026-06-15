@@ -4,7 +4,7 @@
 
   ## 🏆 Open Source Contributions
 
-  ### HashiCorp — [terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws)
+  ### HashiCorp - [terraform-provider-aws](https://github.com/hashicorp/terraform-provider-aws)
 
   | PR | Description | Released In |
   |----|-------------|-------------|
@@ -20,28 +20,76 @@
 
   ## 🛠️ Tech Stack
 
-  ![Go](https://img.shields.io/badge/-Go-00ADD8?logo=go&logoColor=white&style=flat)
+  **Languages:**
+  ![Scala](https://img.shields.io/badge/-Scala-DC322F?logo=scala&logoColor=white&style=flat)
   ![Java](https://img.shields.io/badge/-Java-007396?logo=openjdk&logoColor=white&style=flat)
   ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat)
+  ![Go](https://img.shields.io/badge/-Go-00ADD8?logo=go&logoColor=white&style=flat)
   ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white&style=flat)
-  ![Terraform](https://img.shields.io/badge/-Terraform-7B42BC?logo=terraform&logoColor=white&style=flat)
-  ![AWS](https://img.shields.io/badge/-AWS-232F3E?logo=amazonwebservices&logoColor=white&style=flat)
-  ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=flat)
+
+  **Big Data & Streaming:**
+  ![Spark](https://img.shields.io/badge/-Spark-E25A1C?logo=apachespark&logoColor=white&style=flat)
   ![Kafka](https://img.shields.io/badge/-Kafka-231F20?logo=apachekafka&logoColor=white&style=flat)
   ![Hadoop](https://img.shields.io/badge/-Hadoop-66CCFF?logo=apachehadoop&logoColor=black&style=flat)
-  ![Spark](https://img.shields.io/badge/-Spark-E25A1C?logo=apachespark&logoColor=white&style=flat)
-  ![Scala](https://img.shields.io/badge/-Scala-DC322F?logo=scala&logoColor=white&style=flat)
-  ![Bun](https://img.shields.io/badge/-Bun-000000?logo=bun&logoColor=white&style=flat)
+  ![Hive](https://img.shields.io/badge/-Hive-FDEE21?logo=apachehive&logoColor=black&style=flat)
+  ![Airflow](https://img.shields.io/badge/-Airflow-017CEE?logo=apacheairflow&logoColor=white&style=flat)
+  ![Elasticsearch](https://img.shields.io/badge/-Elasticsearch-005571?logo=elasticsearch&logoColor=white&style=flat)
+
+  **Infrastructure & Cloud:**
+  ![AWS](https://img.shields.io/badge/-AWS-232F3E?logo=amazonwebservices&logoColor=white&style=flat)
+  ![Terraform](https://img.shields.io/badge/-Terraform-7B42BC?logo=terraform&logoColor=white&style=flat)
+  ![OpenTofu](https://img.shields.io/badge/-OpenTofu-FFDA18?logo=opentofu&logoColor=black&style=flat)
+  ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=flat)
+  ![Kubernetes](https://img.shields.io/badge/-K8s-326CE5?logo=kubernetes&logoColor=white&style=flat)
+
+  **Runtime & Tools:**
   ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=nodedotjs&logoColor=white&style=flat)
+  ![Bun](https://img.shields.io/badge/-Bun-000000?logo=bun&logoColor=white&style=flat)
+
+  ## 🛠 What I Build & Work on
+
+<table>
+<tr>
+<td align="center"><b>📊 Data Engineering & Big Data</b></td>
+<td align="center"><b>☁️ Cloud & Infra Automation</b></td>
+<td align="center"><b>🔧 Open Source & Systems</b></td>
+</tr>
+<tr>
+<td>
+
+- Spark / Kafka streaming
+- ETL/ELT batch + real-time
+- Data warehouse modernization
+- On-prem to cloud migration
+- Data quality & governance
+
+</td>
+<td>
+
+- AWS / GCP / Azure multi-cloud
+- Terraform / OpenTofu IaC
+- Docker / K8s containerization
+- CI/CD pipelines & GitOps
+- High-availability infra design
+
+</td>
+<td>
+
+- Terraform AWS Provider (Go)
+- High-availability backend arch
+- Performance-critical code
+- Design patterns & engineering
+- Bug fixes & testing for major OSS
+
+</td>
+</tr>
+</table>
 
   ## 📫 Connect
 
   - 🌐 [sukumaar.github.io](https://sukumaar.github.io)
   - 🐙 [github.com/sukumaar](https://github.com/sukumaar)
 
-
-<sub>![Last Commit](https://img.shields.io/github/last-commit/sukumaar/sukumaar?label=Profile%20updated&style=flat)</sub>
- 
 ---
   <div align="center">
 
