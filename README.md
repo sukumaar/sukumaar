@@ -8,6 +8,8 @@
 
   | PR | Description | Released In |
   |----|-------------|-------------|
+  | [#47918](https://github.com/hashicorp/terraform-provider-aws/pull/47918) | Fix `aws_elasticache_serverless_cache` multiple field modification | v6.52.0 |
+  | [#47647](https://github.com/hashicorp/terraform-provider-aws/pull/47647) | Fix `aws_elasticache_replication_group` `automatic_failover_enabled` drift on global replication group members | v6.52.0 |
   | [#46526](https://github.com/hashicorp/terraform-provider-aws/pull/46526) | Fix `aws_elasticache_replication_group` slow-log `log_delivery_configuration` | v6.51.0 |
   | [#46326](https://github.com/hashicorp/terraform-provider-aws/pull/46326) | Fix `aws_elasticache_replication_group` fix snapshot issue | v6.48.0 |
   | [#46109](https://github.com/hashicorp/terraform-provider-aws/pull/46109) | Fix `aws_elasticache_replication_group` engine change after disassociating | v6.45.0 |
