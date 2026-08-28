@@ -8,6 +8,9 @@
 
   | PR | Description | Released In |
   |----|-------------|-------------|
+  | [#49268](https://github.com/hashicorp/terraform-provider-aws/pull/49268) | Add write-only `auth_token` arguments to `aws_elasticache_replication_group` | v6.62.0 |
+  | [#49114](https://github.com/hashicorp/terraform-provider-aws/pull/49114) | Add plan-time validation for `aws_elasticache_cluster` `transit_encryption_enabled` | v6.62.0 |
+  | [#48246](https://github.com/hashicorp/terraform-provider-aws/pull/48246) | Fix `aws_elasticache_replication_group` perpetual diff from pending modified values | v6.58.0 |
   | [#47918](https://github.com/hashicorp/terraform-provider-aws/pull/47918) | Fix `aws_elasticache_serverless_cache` multiple field modification | v6.52.0 |
   | [#47647](https://github.com/hashicorp/terraform-provider-aws/pull/47647) | Fix `aws_elasticache_replication_group` `automatic_failover_enabled` drift on global replication group members | v6.52.0 |
   | [#46526](https://github.com/hashicorp/terraform-provider-aws/pull/46526) | Fix `aws_elasticache_replication_group` slow-log `log_delivery_configuration` | v6.51.0 |
