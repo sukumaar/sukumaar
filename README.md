@@ -8,6 +8,8 @@
 
   | PR | Description | Released In |
   |----|-------------|-------------|
+  | [#49115](https://github.com/hashicorp/terraform-provider-aws/pull/49115) | Clarify `aws_elasticache_replication_group` `auto_minor_version_upgrade` default is AWS-set | v6.63.0 |
+  | [#49110](https://github.com/hashicorp/terraform-provider-aws/pull/49110) | Document `aws_elasticache_global_replication_group` `parameter_group_name` API constraints | v6.63.0 |
   | [#49268](https://github.com/hashicorp/terraform-provider-aws/pull/49268) | Add write-only `auth_token` arguments to `aws_elasticache_replication_group` | v6.62.0 |
   | [#49114](https://github.com/hashicorp/terraform-provider-aws/pull/49114) | Add plan-time validation for `aws_elasticache_cluster` `transit_encryption_enabled` | v6.62.0 |
   | [#48246](https://github.com/hashicorp/terraform-provider-aws/pull/48246) | Fix `aws_elasticache_replication_group` perpetual diff from pending modified values | v6.58.0 |
