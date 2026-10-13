@@ -8,6 +8,7 @@
 
   | PR | Description | Released In |
   |----|-------------|-------------|
+  | [#50276](https://github.com/hashicorp/terraform-provider-aws/pull/50276) | Add `context_enrichment_configuration` to `aws_bedrockagent_data_source` for GraphRAG knowledge bases | v6.69.0 |
   | [#49115](https://github.com/hashicorp/terraform-provider-aws/pull/49115) | Clarify `aws_elasticache_replication_group` `auto_minor_version_upgrade` default is AWS-set | v6.63.0 |
   | [#49110](https://github.com/hashicorp/terraform-provider-aws/pull/49110) | Document `aws_elasticache_global_replication_group` `parameter_group_name` API constraints | v6.63.0 |
   | [#49268](https://github.com/hashicorp/terraform-provider-aws/pull/49268) | Add write-only `auth_token` arguments to `aws_elasticache_replication_group` | v6.62.0 |
