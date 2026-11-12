@@ -8,7 +8,7 @@
 
   | PR | Description | Released In |
   |----|-------------|-------------|
-  | [#50454](https://github.com/hashicorp/terraform-provider-aws/pull/50520) | `aws_elasticache_serverless_cache` public endpoints support | v6.73.0 |
+  | [#50454](https://github.com/hashicorp/terraform-provider-aws/pull/50454) | `aws_elasticache_serverless_cache` public endpoints support | v6.73.0 |
   | [#50520](https://github.com/hashicorp/terraform-provider-aws/pull/50520) | `aws_elasticache_global_replication_group` tagging support | v6.72.0 |
   | [#50276](https://github.com/hashicorp/terraform-provider-aws/pull/50276) | Add `context_enrichment_configuration` to `aws_bedrockagent_data_source` for GraphRAG knowledge bases | v6.69.0 |
   | [#49115](https://github.com/hashicorp/terraform-provider-aws/pull/49115) | Clarify `aws_elasticache_replication_group` `auto_minor_version_upgrade` default is AWS-set | v6.63.0 |
